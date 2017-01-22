@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "615463469902",
+    "firebase_url": "https://camposha-info.firebaseio.com",
+    "project_id": "camposha-info",
+    "storage_bucket": "camposha-info.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615463469902:android:84e4652a4cff86ee",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.fireimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615463469902-8qi70cble1np8065teggrm7ik6vb5buh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-2ZBVldD514a4vbDMKxqYxOn9jktNBUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
